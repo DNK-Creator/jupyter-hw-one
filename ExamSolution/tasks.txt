@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Gym",
+    "priority": "low",
+    "isDone": true,
+    "id": 1
+  },
+  {
+    "title": "PythonHomework",
+    "priority": "high",
+    "isDone": false,
+    "id": 2
+  },
+  {
+    "title": "MathHomework",
+    "priority": "normal",
+    "isDone": true,
+    "id": 3
+  }
+]
